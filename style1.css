@@ -1,0 +1,42 @@
+.pull-left.info {
+	background-color: transparent;
+}
+#home {
+   
+    color: white;
+}
+section.sidebar .shiny-bound-input.action-button, section.sidebar .shiny-bound-input.action-link {
+    margin: 6px 5px 6px 15px;
+    display: block;
+    background-color: transparent;
+    border-color: transparent;
+}
+#logout2{
+	color:white;
+}
+.submit{
+	margin-top: 19%;
+	margin-right: 30%;
+
+}
+#mytable_head{
+	margin-top:-14%;
+}
+#mytable1_head{
+	margin-top:-14%;
+}
+#mytable2_head{
+	margin-top:-14%;
+}
+#mytable3_head{
+	margin-top:-14%;
+}
+#mytable4_head{
+	margin-top:-14%;
+}
+
+.table.shiny-table{
+	border-style: solid;
+	background-color: lightgray;
+}
+
